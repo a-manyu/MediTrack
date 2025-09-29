@@ -29,10 +29,15 @@ It helps manage patients, doctors, and appointments using core **OOP principles*
 ```
 
 MediTrack/
+
 ├── Doctor.java
+
 ├── Patient.java
+
 ├── Appointment.java
+
 ├── HospitalManagement.java   # Main entry point
+
 └── README.md
 
 ````
